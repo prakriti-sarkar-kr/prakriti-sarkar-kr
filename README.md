@@ -20,7 +20,3 @@
   <br/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my repository consists of and doesn't reflect experience or skill level.
-  
-  #### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prakriti-sarkar-kr.pprakriti-sarkar-kr)

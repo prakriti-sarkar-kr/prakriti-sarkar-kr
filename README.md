@@ -1,6 +1,6 @@
 ### I'm Prakriti Sarkar 👋
 
-- 🔭 Working as an Offshore Contractor for Kroger's Data Engineering Team.
+- 🔭 Worked as an Offshore Contractor for Kroger's Data Engineering Team.
 - :computer: Most used line of code `echo "Hello World!"`
 - 📫 How to reach me: prakriti.sarkar@kroger.com.
 - ⚡ Fun fact: I play games and sleep a lot.
